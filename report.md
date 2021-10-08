@@ -7,11 +7,11 @@
 На тестирование затрачено: 0,5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* Issue - https://github.com/AlyonaUskova/Money-Transfer/issues/1
+*  [Issue](https://github.com/AlyonaUskova/Money-Transfer/issues/1)
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные Задания №1 (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
+В качестве тестовых данных использовались данные [Задания №1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * текущий баланс счёта клиента - переменная типа int, значение - 2_000_000_000 (два миллиарда рублей)
 * сумма перевода - переменная типа int, значение - 500_000_000 (пятьсот миллионов рублей)
 * переменная для хранения итогового значения - тип int
